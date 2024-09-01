@@ -46,3 +46,8 @@ p {
 .shop-link:hover{
     text-decoration:underline;
 }
+.image-class{
+    height:35px;
+    width:35px;
+    margin-bottom:15px;
+}
